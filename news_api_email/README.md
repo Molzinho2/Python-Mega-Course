@@ -1,3 +1,3 @@
 # What is this Project?
 
-This app acesses news about a particular topics and send them by email.
+This app accesses news about a particular topics with request library and send them by email.
